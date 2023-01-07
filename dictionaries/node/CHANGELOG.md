@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-node-v4.0.2...@cspell/dict-node@5.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* Keep compiled text dictionaries ([#1519](https://github.com/ttasovac/cspell-dicts/issues/1519)) ([a2a5d29](https://github.com/ttasovac/cspell-dicts/commit/a2a5d29edebddbc443758789105ad1b175483d41))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1516](https://github.com/ttasovac/cspell-dicts/issues/1516)) ([88069cd](https://github.com/ttasovac/cspell-dicts/commit/88069cd4b35f74865a19cdddec65d3da53cd1efd))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+
 ## [4.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-node@4.0.1...@cspell/dict-node@4.0.2) (2022-12-17)
 
 

@@ -3,6 +3,56 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-npm-v5.0.3...@cspell/dict-npm@6.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Reformat npm layout ([#1678](https://github.com/ttasovac/cspell-dicts/issues/1678))
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* add ulid ([#1260](https://github.com/ttasovac/cspell-dicts/issues/1260)) ([8687ba6](https://github.com/ttasovac/cspell-dicts/commit/8687ba60882134db8d845631bffdea9056baff37))
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* add `browserslist` to npm.txt ([#1328](https://github.com/ttasovac/cspell-dicts/issues/1328)) ([5f9efd5](https://github.com/ttasovac/cspell-dicts/commit/5f9efd5f1f973d09005db9e35f8279e702ac1c00))
+* add `dropzone` to npm.txt ([#1330](https://github.com/ttasovac/cspell-dicts/issues/1330)) ([d586c8a](https://github.com/ttasovac/cspell-dicts/commit/d586c8a366d54c3c5b244717de06cca245412ea5))
+* add `jszip` npm.txt ([#1329](https://github.com/ttasovac/cspell-dicts/issues/1329)) ([8cee12f](https://github.com/ttasovac/cspell-dicts/commit/8cee12f36c2a338642cecd603606070aad623e71))
+* add `pnpm` package manager ([#1335](https://github.com/ttasovac/cspell-dicts/issues/1335)) ([e1b5f61](https://github.com/ttasovac/cspell-dicts/commit/e1b5f619ff80108e177e80369baa147c98de04be))
+* Add `sveltekit` to npm package list ([#1697](https://github.com/ttasovac/cspell-dicts/issues/1697)) ([b903ba1](https://github.com/ttasovac/cspell-dicts/commit/b903ba1e9dc4990d991e5587acc26da95c98d448))
+* Add globby to known `npm` packages ([#1732](https://github.com/ttasovac/cspell-dicts/issues/1732)) ([10783ef](https://github.com/ttasovac/cspell-dicts/commit/10783ef20d6ed8658d39a8d22b06d98a0f355604))
+* Add posthtml ([#1499](https://github.com/ttasovac/cspell-dicts/issues/1499)) ([8cee05a](https://github.com/ttasovac/cspell-dicts/commit/8cee05a842741e98356dca28d54016ffda122808))
+* Add some package names to npm ([#1517](https://github.com/ttasovac/cspell-dicts/issues/1517)) ([753f992](https://github.com/ttasovac/cspell-dicts/commit/753f99202a034af9c71b0f8768eb5e74625be2e1))
+* Add words to various dicts ([#1721](https://github.com/ttasovac/cspell-dicts/issues/1721)) ([937b3d2](https://github.com/ttasovac/cspell-dicts/commit/937b3d2895181736a1451bc4e641732e9c224b93))
+* Reformat npm layout ([#1678](https://github.com/ttasovac/cspell-dicts/issues/1678)) ([010622f](https://github.com/ttasovac/cspell-dicts/commit/010622f5b7f774196f69e8219bd0ebac4233f73e))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1696](https://github.com/ttasovac/cspell-dicts/issues/1696)) ([e203582](https://github.com/ttasovac/cspell-dicts/commit/e203582b4c54332f0e7f220e4af1a18288fc695f))
+* Workflow Bot -- Build Dictionaries ([#1724](https://github.com/ttasovac/cspell-dicts/issues/1724)) ([1746758](https://github.com/ttasovac/cspell-dicts/commit/174675897e18e77a6b2a7cf46983fd12f96ffc8f))
+* Workflow Bot -- Build Dictionaries ([#1734](https://github.com/ttasovac/cspell-dicts/issues/1734)) ([f216811](https://github.com/ttasovac/cspell-dicts/commit/f216811e635e048a9d0cf402b837594f4eeac146))
+* Workflow Bot -- Update ALL Dependencies ([25a9b5a](https://github.com/ttasovac/cspell-dicts/commit/25a9b5a4bf0337494d3b674acd5afd65930277c0))
+* Workflow Bot -- Update ALL Dependencies (main) ([#1693](https://github.com/ttasovac/cspell-dicts/issues/1693)) ([25a9b5a](https://github.com/ttasovac/cspell-dicts/commit/25a9b5a4bf0337494d3b674acd5afd65930277c0))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* release main ([#1320](https://github.com/ttasovac/cspell-dicts/issues/1320)) ([ef96333](https://github.com/ttasovac/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1334](https://github.com/ttasovac/cspell-dicts/issues/1334)) ([e170947](https://github.com/ttasovac/cspell-dicts/commit/e170947df0f94ce166ff4c9daac92392e4e6c71b))
+* release main ([#1495](https://github.com/ttasovac/cspell-dicts/issues/1495)) ([61289d1](https://github.com/ttasovac/cspell-dicts/commit/61289d1621bd7c5d2cccc763acf3ca49b8ca28a1))
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1516](https://github.com/ttasovac/cspell-dicts/issues/1516)) ([88069cd](https://github.com/ttasovac/cspell-dicts/commit/88069cd4b35f74865a19cdddec65d3da53cd1efd))
+* release main ([#1671](https://github.com/ttasovac/cspell-dicts/issues/1671)) ([5f345d3](https://github.com/ttasovac/cspell-dicts/commit/5f345d3c40207cb6d00f8a2da04a8bf4c005e198))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+* release main ([#1716](https://github.com/ttasovac/cspell-dicts/issues/1716)) ([0f0546d](https://github.com/ttasovac/cspell-dicts/commit/0f0546dd1b66d14743cc170ddd1ba336c225179c))
+* release main ([#1733](https://github.com/ttasovac/cspell-dicts/issues/1733)) ([def4043](https://github.com/ttasovac/cspell-dicts/commit/def404330aa9bd3001f1e52c22509265625e581f))
+
 ## [5.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@5.0.2...@cspell/dict-npm@5.0.3) (2022-12-28)
 
 

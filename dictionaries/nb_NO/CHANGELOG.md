@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-nb-no-v1.0.5...@cspell/dict-nb-no@1.0.6) (2023-01-07)
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+
 ## [1.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-nb-no@1.0.4...@cspell/dict-nb-no@1.0.5) (2022-12-17)
 
 

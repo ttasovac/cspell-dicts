@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-typescript-v3.1.0...@cspell/dict-typescript@4.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Upgrade Typescript Dictionary ([#1713](https://github.com/ttasovac/cspell-dicts/issues/1713)) ([bb3bf58](https://github.com/ttasovac/cspell-dicts/commit/bb3bf580ab708880bc8bdc9b2af5d7bdae79768d))
+
+
+### Updates and Bug Fixes
+
+* Keep compiled text dictionaries ([#1519](https://github.com/ttasovac/cspell-dicts/issues/1519)) ([a2a5d29](https://github.com/ttasovac/cspell-dicts/commit/a2a5d29edebddbc443758789105ad1b175483d41))
+* Rebuild TypeScript dictionary ([#1720](https://github.com/ttasovac/cspell-dicts/issues/1720)) ([cd9815d](https://github.com/ttasovac/cspell-dicts/commit/cd9815d4aea2115737a3473e904fb3eedc2ecbdf))
+* Remove typos from software terms ([#1462](https://github.com/ttasovac/cspell-dicts/issues/1462)) ([bff1352](https://github.com/ttasovac/cspell-dicts/commit/bff135215f3a71dc3e5151f97db407d597e8df65))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* release main ([#1456](https://github.com/ttasovac/cspell-dicts/issues/1456)) ([56c93a0](https://github.com/ttasovac/cspell-dicts/commit/56c93a01e70075f426f7a59bc7f9e6681244deee))
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1516](https://github.com/ttasovac/cspell-dicts/issues/1516)) ([88069cd](https://github.com/ttasovac/cspell-dicts/commit/88069cd4b35f74865a19cdddec65d3da53cd1efd))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+* release main ([#1716](https://github.com/ttasovac/cspell-dicts/issues/1716)) ([0f0546d](https://github.com/ttasovac/cspell-dicts/commit/0f0546dd1b66d14743cc170ddd1ba336c225179c))
+
 ## [3.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.0.2...@cspell/dict-typescript@3.1.0) (2022-12-25)
 
 

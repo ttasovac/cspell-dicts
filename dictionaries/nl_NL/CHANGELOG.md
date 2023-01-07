@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.9](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-nl-nl-v2.2.8...@cspell/dict-nl-nl@2.2.9) (2023-01-07)
+
+
+### Updates and Bug Fixes
+
+* Fix Dutch suggestion edit costs. ([#1498](https://github.com/ttasovac/cspell-dicts/issues/1498)) ([0396dd8](https://github.com/ttasovac/cspell-dicts/commit/0396dd8f811b45e0cd5287f559d29eb09489c7be))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* do not store `.trie.gz` files. ([#1361](https://github.com/ttasovac/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/ttasovac/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* force overwrite in prepare ([#1364](https://github.com/ttasovac/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/ttasovac/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* release main ([#1358](https://github.com/ttasovac/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/ttasovac/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+* release main ([#1495](https://github.com/ttasovac/cspell-dicts/issues/1495)) ([61289d1](https://github.com/ttasovac/cspell-dicts/commit/61289d1621bd7c5d2cccc763acf3ca49b8ca28a1))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+
 ## [2.2.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-nl-nl@2.2.7...@cspell/dict-nl-nl@2.2.8) (2022-12-17)
 
 
