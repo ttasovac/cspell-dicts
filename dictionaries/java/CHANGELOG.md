@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-java-v5.0.4...@cspell/dict-java@6.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Rebuild Java Dictionary ([#1557](https://github.com/ttasovac/cspell-dicts/issues/1557))
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Rebuild Java Dictionary ([#1557](https://github.com/ttasovac/cspell-dicts/issues/1557)) ([e60dbaf](https://github.com/ttasovac/cspell-dicts/commit/e60dbafa84120a6c623cbb1b3b3f7b1a2e7e6207))
+
+
+### Updates and Bug Fixes
+
+* Add lowercase terms ([#1560](https://github.com/ttasovac/cspell-dicts/issues/1560)) ([f15dad1](https://github.com/ttasovac/cspell-dicts/commit/f15dad15089548e7f526573fb2cf313ff3e4a0e8))
+* Add some common java compound words ([#1563](https://github.com/ttasovac/cspell-dicts/issues/1563)) ([6dcb623](https://github.com/ttasovac/cspell-dicts/commit/6dcb62361d73b789262c968b9c5e7a95df3e7e7c))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* Do not `gz` small dictionaries ([#1760](https://github.com/ttasovac/cspell-dicts/issues/1760)) ([16288ce](https://github.com/ttasovac/cspell-dicts/commit/16288ced75b3cc640558a983875ed2b2de2b5703))
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1527](https://github.com/ttasovac/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/ttasovac/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1562](https://github.com/ttasovac/cspell-dicts/issues/1562)) ([7a968aa](https://github.com/ttasovac/cspell-dicts/commit/7a968aab2a0203071d331484024e2762e036049b))
+* release main ([#1564](https://github.com/ttasovac/cspell-dicts/issues/1564)) ([3131e56](https://github.com/ttasovac/cspell-dicts/commit/3131e563124f158049598b897003f81b14264f6e))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+* release main ([#1761](https://github.com/ttasovac/cspell-dicts/issues/1761)) ([adf21d5](https://github.com/ttasovac/cspell-dicts/commit/adf21d5f6c5e7fd89674b400e12f82104258e5c5))
+
 ## [5.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-java@5.0.3...@cspell/dict-java@5.0.4) (2023-01-05)
 
 

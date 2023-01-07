@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-csharp-v4.0.2...@cspell/dict-csharp@5.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* 1532 ([#1533](https://github.com/ttasovac/cspell-dicts/issues/1533)) ([d6295c3](https://github.com/ttasovac/cspell-dicts/commit/d6295c3bc778985ff7e96dc49eaf880ce60bb925))
+* Add CSharp XMLDoc keywords ([8ea5ff8](https://github.com/ttasovac/cspell-dicts/commit/8ea5ff8ace3157c094e1e131bacd380992d444ae))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1527](https://github.com/ttasovac/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/ttasovac/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1646](https://github.com/ttasovac/cspell-dicts/issues/1646)) ([c332b1f](https://github.com/ttasovac/cspell-dicts/commit/c332b1f6e1444528e80fc3c17f3771d8b35e6b7a))
+
 ## [4.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-csharp@4.0.1...@cspell/dict-csharp@4.0.2) (2022-11-22)
 
 

@@ -3,6 +3,69 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-en-gb-v4.1.6...@cspell/dict-en-gb@5.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Force major version for en_GB. ([#1556](https://github.com/ttasovac/cspell-dicts/issues/1556))
+
+### Features
+
+* Force major version for en_GB. ([#1556](https://github.com/ttasovac/cspell-dicts/issues/1556)) ([a339915](https://github.com/ttasovac/cspell-dicts/commit/a339915549aa44ed2e8da576dea0f9a1d29bf1ed))
+* Share words between all English dictionaries. ([#1633](https://github.com/ttasovac/cspell-dicts/issues/1633)) ([db0b55c](https://github.com/ttasovac/cspell-dicts/commit/db0b55ce17e02b16a23ebdf8eccdf037330afc0c))
+
+
+### Updates and Bug Fixes
+
+* Add British Software Terms ([#1744](https://github.com/ttasovac/cspell-dicts/issues/1744)) ([72c3fcf](https://github.com/ttasovac/cspell-dicts/commit/72c3fcf7a06439d34d5ea176ae3a9b11867be4ec))
+* add guillemet to en_GB and en_US ([1b76384](https://github.com/ttasovac/cspell-dicts/commit/1b763844d16ea6ef765763f8b15693781d72c3c3))
+* add some country names ([#1331](https://github.com/ttasovac/cspell-dicts/issues/1331)) ([625bdf6](https://github.com/ttasovac/cspell-dicts/commit/625bdf62944247dfebe6057ad244b1883f3fc083))
+* Add to Aruban en_gb ([#1622](https://github.com/ttasovac/cspell-dicts/issues/1622)) ([ad92878](https://github.com/ttasovac/cspell-dicts/commit/ad92878fb9a1f7bad6e2577287e3666d6e570f10))
+* move share English words into their own package. ([5314130](https://github.com/ttasovac/cspell-dicts/commit/5314130b5b8d11942e8923f5462ba8d55b245bed))
+* move shared English words into their own package. ([#1729](https://github.com/ttasovac/cspell-dicts/issues/1729)) ([5314130](https://github.com/ttasovac/cspell-dicts/commit/5314130b5b8d11942e8923f5462ba8d55b245bed))
+* Rebuild dictionaries to reduce size ([#1554](https://github.com/ttasovac/cspell-dicts/issues/1554)) ([ec711d3](https://github.com/ttasovac/cspell-dicts/commit/ec711d37264b90f028c61f05c1e46e11ad8e76c3))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1257](https://github.com/ttasovac/cspell-dicts/issues/1257)) ([e6e4518](https://github.com/ttasovac/cspell-dicts/commit/e6e4518e21770fa669173d89b68a32d7600f3914))
+* Workflow Bot -- Build Dictionaries ([#1324](https://github.com/ttasovac/cspell-dicts/issues/1324)) ([25b75a5](https://github.com/ttasovac/cspell-dicts/commit/25b75a54e0dff74cabc3e67e0f41736135a8d6e1))
+* Workflow Bot -- Build Dictionaries ([#1332](https://github.com/ttasovac/cspell-dicts/issues/1332)) ([862a2a1](https://github.com/ttasovac/cspell-dicts/commit/862a2a16eeeacee9ac05c8eb5d160cf2253f8db1))
+* Workflow Bot -- Build Dictionaries ([#1428](https://github.com/ttasovac/cspell-dicts/issues/1428)) ([7c877dc](https://github.com/ttasovac/cspell-dicts/commit/7c877dc7a6d98c7b4755b043313dad964e5590d3))
+* Workflow Bot -- Build Dictionaries ([#1491](https://github.com/ttasovac/cspell-dicts/issues/1491)) ([afb392e](https://github.com/ttasovac/cspell-dicts/commit/afb392e057ecd38c5979e93f338fd97a395b5ebd))
+* Workflow Bot -- Build Dictionaries ([#1548](https://github.com/ttasovac/cspell-dicts/issues/1548)) ([8fb732d](https://github.com/ttasovac/cspell-dicts/commit/8fb732d09dcfddba786c967787a6078a92ab4b23))
+* Workflow Bot -- Build Dictionaries ([#1626](https://github.com/ttasovac/cspell-dicts/issues/1626)) ([3f8e9b7](https://github.com/ttasovac/cspell-dicts/commit/3f8e9b70815f224687d877f0c5dcacb8f8724a6d))
+* Workflow Bot -- Build Dictionaries ([#1634](https://github.com/ttasovac/cspell-dicts/issues/1634)) ([1ea38f3](https://github.com/ttasovac/cspell-dicts/commit/1ea38f38d16d3799e9781be1ef2f1c169a273fd1))
+* Workflow Bot -- Build Dictionaries ([#1644](https://github.com/ttasovac/cspell-dicts/issues/1644)) ([4fbbeb0](https://github.com/ttasovac/cspell-dicts/commit/4fbbeb0939931462cc53ebc1b2c026fd5d0d0cd5))
+* Workflow Bot -- Build Dictionaries ([#1673](https://github.com/ttasovac/cspell-dicts/issues/1673)) ([8a3c1dd](https://github.com/ttasovac/cspell-dicts/commit/8a3c1ddfd3d726dd7d980261f42223c4f2b137bc))
+* Workflow Bot -- Build Dictionaries ([#1730](https://github.com/ttasovac/cspell-dicts/issues/1730)) ([0418caa](https://github.com/ttasovac/cspell-dicts/commit/0418caa921acb7da39e2671e9edca52445fd4dd7))
+* Workflow Bot -- Build Dictionaries ([#1736](https://github.com/ttasovac/cspell-dicts/issues/1736)) ([c70b26c](https://github.com/ttasovac/cspell-dicts/commit/c70b26cfa870a2a67868f8e71f936f57bdf871ed))
+* Workflow Bot -- Build Dictionaries ([#1747](https://github.com/ttasovac/cspell-dicts/issues/1747)) ([d81a27d](https://github.com/ttasovac/cspell-dicts/commit/d81a27da70bd9f3d3381c9466a4c6c8cc848f0c1))
+* Workflow Bot -- Build Dictionaries ([#1768](https://github.com/ttasovac/cspell-dicts/issues/1768)) ([02f5de1](https://github.com/ttasovac/cspell-dicts/commit/02f5de1f88ba50bfe725e3f262f61b20fcfd2237))
+
+
+### Miscellaneous
+
+* adjust the trie format to improve git storage ([#1371](https://github.com/ttasovac/cspell-dicts/issues/1371)) ([1b91dc7](https://github.com/ttasovac/cspell-dicts/commit/1b91dc7ff869ca1d7ece87910da9adce12504085))
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* do not store `.trie.gz` files. ([#1361](https://github.com/ttasovac/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/ttasovac/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* Fix yarn references to private packages. ([6106ad7](https://github.com/ttasovac/cspell-dicts/commit/6106ad762ce2ebce586932ca393da93744f22fe4))
+* force overwrite in prepare ([#1364](https://github.com/ttasovac/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/ttasovac/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* release main ([#1320](https://github.com/ttasovac/cspell-dicts/issues/1320)) ([ef96333](https://github.com/ttasovac/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1358](https://github.com/ttasovac/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/ttasovac/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+* release main ([#1423](https://github.com/ttasovac/cspell-dicts/issues/1423)) ([7da08f5](https://github.com/ttasovac/cspell-dicts/commit/7da08f599e4725d55d9780cab923b5b830aa5232))
+* release main ([#1490](https://github.com/ttasovac/cspell-dicts/issues/1490)) ([4a92766](https://github.com/ttasovac/cspell-dicts/commit/4a927666b1a2a47aae70388a16d86b6b0485e9e4))
+* release main ([#1527](https://github.com/ttasovac/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/ttasovac/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1615](https://github.com/ttasovac/cspell-dicts/issues/1615)) ([8c20cb1](https://github.com/ttasovac/cspell-dicts/commit/8c20cb186c0683008207540a7d6a2456d577b669))
+* release main ([#1631](https://github.com/ttasovac/cspell-dicts/issues/1631)) ([0ff60ca](https://github.com/ttasovac/cspell-dicts/commit/0ff60cafb9ed7a87ee5e745a54697ed6dd2394ee))
+* release main ([#1671](https://github.com/ttasovac/cspell-dicts/issues/1671)) ([5f345d3](https://github.com/ttasovac/cspell-dicts/commit/5f345d3c40207cb6d00f8a2da04a8bf4c005e198))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+* release main ([#1716](https://github.com/ttasovac/cspell-dicts/issues/1716)) ([0f0546d](https://github.com/ttasovac/cspell-dicts/commit/0f0546dd1b66d14743cc170ddd1ba336c225179c))
+* release main ([#1733](https://github.com/ttasovac/cspell-dicts/issues/1733)) ([def4043](https://github.com/ttasovac/cspell-dicts/commit/def404330aa9bd3001f1e52c22509265625e581f))
+* release main ([#1738](https://github.com/ttasovac/cspell-dicts/issues/1738)) ([423cdde](https://github.com/ttasovac/cspell-dicts/commit/423cddea0244a460b994d8c4643a418bea52a5ec))
+* release main ([#1761](https://github.com/ttasovac/cspell-dicts/issues/1761)) ([adf21d5](https://github.com/ttasovac/cspell-dicts/commit/adf21d5f6c5e7fd89674b400e12f82104258e5c5))
+
 ## [4.1.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.5...@cspell/dict-en-gb@4.1.6) (2023-01-05)
 
 

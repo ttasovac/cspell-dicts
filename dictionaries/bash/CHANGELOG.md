@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-bash-v4.1.1...@cspell/dict-bash@5.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Bash Dictionary ([#1601](https://github.com/ttasovac/cspell-dicts/issues/1601))
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* Create a common ShellScript dictionary ([#1639](https://github.com/ttasovac/cspell-dicts/issues/1639)) ([28ee43e](https://github.com/ttasovac/cspell-dicts/commit/28ee43ef4787db13fc304f8be47cc0f8a9e76eab))
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Upgrade Bash Dictionary ([#1601](https://github.com/ttasovac/cspell-dicts/issues/1601)) ([899c792](https://github.com/ttasovac/cspell-dicts/commit/899c792ad778d7efc31f2dec35695e8ebb4958e1))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1588](https://github.com/ttasovac/cspell-dicts/issues/1588)) ([6281ddf](https://github.com/ttasovac/cspell-dicts/commit/6281ddf47fdb43dd115466ff684eba7dc64785d4))
+* release main ([#1631](https://github.com/ttasovac/cspell-dicts/issues/1631)) ([0ff60ca](https://github.com/ttasovac/cspell-dicts/commit/0ff60cafb9ed7a87ee5e745a54697ed6dd2394ee))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+
 ## [4.1.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-bash@4.1.0...@cspell/dict-bash@4.1.1) (2022-12-17)
 
 
