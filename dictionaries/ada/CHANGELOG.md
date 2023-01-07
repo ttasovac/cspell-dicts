@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-ada-v4.0.1...@cspell/dict-ada@5.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Ada dictionary ([#1600](https://github.com/ttasovac/cspell-dicts/issues/1600))
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Update Ada dictionary ([#1600](https://github.com/ttasovac/cspell-dicts/issues/1600)) ([1685dd9](https://github.com/ttasovac/cspell-dicts/commit/1685dd95a20601b66c67bf834ecbf5794b9f556b))
+
+
+### Updates and Bug Fixes
+
+* support English contractions in Ada files. ([#1277](https://github.com/ttasovac/cspell-dicts/issues/1277)) ([ec0895e](https://github.com/ttasovac/cspell-dicts/commit/ec0895e2f4f0728f27df111036513c80000245b1)), closes [#1276](https://github.com/ttasovac/cspell-dicts/issues/1276)
+* Upgrade ADA ([#1589](https://github.com/ttasovac/cspell-dicts/issues/1589)) ([9f3c127](https://github.com/ttasovac/cspell-dicts/commit/9f3c127c94561df1098ee8cb936f1929b2b2df5e))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1588](https://github.com/ttasovac/cspell-dicts/issues/1588)) ([6281ddf](https://github.com/ttasovac/cspell-dicts/commit/6281ddf47fdb43dd115466ff684eba7dc64785d4))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ada@4.0.0...@cspell/dict-ada@4.0.1) (2022-12-17)
 
 

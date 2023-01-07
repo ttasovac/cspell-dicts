@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-rust-v4.0.0...@cspell/dict-rust@5.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgade Rust Dict ([#1752](https://github.com/ttasovac/cspell-dicts/issues/1752))
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512))
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/ttasovac/cspell-dicts/issues/1512)) ([687932e](https://github.com/ttasovac/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+* Upgade Rust Dict ([#1752](https://github.com/ttasovac/cspell-dicts/issues/1752)) ([a2c43ff](https://github.com/ttasovac/cspell-dicts/commit/a2c43ff3b407d168f4e6dfbdbe6a3d0456260723))
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/ttasovac/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/ttasovac/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+* release main ([#1738](https://github.com/ttasovac/cspell-dicts/issues/1738)) ([423cdde](https://github.com/ttasovac/cspell-dicts/commit/423cddea0244a460b994d8c4643a418bea52a5ec))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-rust@3.0.0...@cspell/dict-rust@4.0.0) (2022-12-30)
 
 

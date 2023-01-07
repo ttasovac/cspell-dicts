@@ -1,5 +1,28 @@
 # Change Log
 
+## [1.0.3](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-en-shared-v1.0.2...@cspell/dict-en-shared@1.0.3) (2023-01-07)
+
+
+### Continuous Integration
+
+* Workflow Bot -- Build Dictionaries ([#1730](https://github.com/ttasovac/cspell-dicts/issues/1730)) ([0418caa](https://github.com/ttasovac/cspell-dicts/commit/0418caa921acb7da39e2671e9edca52445fd4dd7))
+
+
+### Updates and Bug Fixes
+
+* add `pregenerate+d` to en-shared.txt ([#1735](https://github.com/ttasovac/cspell-dicts/issues/1735)) ([56b8877](https://github.com/ttasovac/cspell-dicts/commit/56b8877ba0ac387221a40ada09e0b1659f242dbd))
+* move share English words into their own package. ([5314130](https://github.com/ttasovac/cspell-dicts/commit/5314130b5b8d11942e8923f5462ba8d55b245bed))
+* move shared English words into their own package. ([#1729](https://github.com/ttasovac/cspell-dicts/issues/1729)) ([5314130](https://github.com/ttasovac/cspell-dicts/commit/5314130b5b8d11942e8923f5462ba8d55b245bed))
+
+
+### Miscellaneous
+
+* Do not `gz` small dictionaries ([#1760](https://github.com/ttasovac/cspell-dicts/issues/1760)) ([16288ce](https://github.com/ttasovac/cspell-dicts/commit/16288ced75b3cc640558a983875ed2b2de2b5703))
+* Do not track en_shared generated dictionary. ([#1737](https://github.com/ttasovac/cspell-dicts/issues/1737)) ([66e8368](https://github.com/ttasovac/cspell-dicts/commit/66e8368bccec6d3c50b3d720e8d21591d3b47275))
+* release main ([#1716](https://github.com/ttasovac/cspell-dicts/issues/1716)) ([0f0546d](https://github.com/ttasovac/cspell-dicts/commit/0f0546dd1b66d14743cc170ddd1ba336c225179c))
+* release main ([#1733](https://github.com/ttasovac/cspell-dicts/issues/1733)) ([def4043](https://github.com/ttasovac/cspell-dicts/commit/def404330aa9bd3001f1e52c22509265625e581f))
+* release main ([#1761](https://github.com/ttasovac/cspell-dicts/issues/1761)) ([adf21d5](https://github.com/ttasovac/cspell-dicts/commit/adf21d5f6c5e7fd89674b400e12f82104258e5c5))
+
 ## [1.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.1...@cspell/dict-en-shared@1.0.2) (2023-01-05)
 
 

@@ -22,6 +22,29 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/ttasovac/cspell-dicts/compare/@cspell/dict-bg-bg-v3.0.1...@cspell/dict-bg-bg@4.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Bulgarian to use CSpell 6 format. ([#1550](https://github.com/ttasovac/cspell-dicts/issues/1550))
+
+### Features
+
+* Update Bulgarian to use CSpell 6 format. ([#1550](https://github.com/ttasovac/cspell-dicts/issues/1550)) ([29886e1](https://github.com/ttasovac/cspell-dicts/commit/29886e12e8d88571a2cdeb4739cdea58f15fafbc))
+
+
+### Updates and Bug Fixes
+
+* Rebuild dictionaries to reduce size ([#1554](https://github.com/ttasovac/cspell-dicts/issues/1554)) ([ec711d3](https://github.com/ttasovac/cspell-dicts/commit/ec711d37264b90f028c61f05c1e46e11ad8e76c3))
+
+
+### Miscellaneous
+
+* clarify where files should be stored. ([#1698](https://github.com/ttasovac/cspell-dicts/issues/1698)) ([6567bc6](https://github.com/ttasovac/cspell-dicts/commit/6567bc62130404cb32945bdcc3bf07316c839396))
+* release main ([#1527](https://github.com/ttasovac/cspell-dicts/issues/1527)) ([fe9e77a](https://github.com/ttasovac/cspell-dicts/commit/fe9e77ac24549b17abedd57e5a1b690ed53c442a))
+* release main ([#1681](https://github.com/ttasovac/cspell-dicts/issues/1681)) ([47a3478](https://github.com/ttasovac/cspell-dicts/commit/47a34789c05111e7b3cb693beb5d456bf25a0cb0))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-bg-bg@3.0.0...@cspell/dict-bg-bg@3.0.1) (2022-12-17)
 
 
